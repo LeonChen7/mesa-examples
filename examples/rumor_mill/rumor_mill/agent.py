@@ -1,13 +1,3 @@
-r"""The following code was adapted from the Rumor Mill model included in Netlogo
-Model information can be found at:
-https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Social%20Science/Rumor%20Mill.nlogox
-Accessed on: November 2, 2017
-Author of NetLogo code:
-    \Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/.
-    Center for Connected Learning and Computer-Based Modeling,
-    Northwestern University, Evanston, IL.
-"""
-
 from mesa.discrete_space import CellAgent
 
 
